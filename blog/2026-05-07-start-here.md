@@ -1,6 +1,6 @@
 ---
 slug: start-here
-title: Start Here: What Daily Blogs Is About
+title: "Start Here: What Daily Blogs Is About"
 authors: [dailyblogs]
 tags: [cloud, platform-engineering, sre, devsecops]
 description: A short introduction to the Daily Blogs cloud platform engineering journal.
