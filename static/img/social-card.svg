@@ -1,0 +1,9 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#071A2F"/>
+  <circle cx="980" cy="140" r="240" fill="#0E355D" opacity="0.8"/>
+  <circle cx="220" cy="500" r="260" fill="#0B5261" opacity="0.55"/>
+  <text x="90" y="230" fill="#9FE7F5" font-family="Inter, Arial" font-size="40" font-weight="700">Daily Blogs</text>
+  <text x="90" y="320" fill="#FFFFFF" font-family="Inter, Arial" font-size="72" font-weight="800">Cloud, DevOps, SRE</text>
+  <text x="90" y="400" fill="#FFFFFF" font-family="Inter, Arial" font-size="72" font-weight="800">and Platform Engineering</text>
+  <text x="90" y="480" fill="#D6F8FF" font-family="Inter, Arial" font-size="30">Production-grade notes for modern cloud platforms.</text>
+</svg>

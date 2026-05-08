@@ -1,0 +1,5 @@
+dailyblogs:
+  name: Daily Blogs
+  title: Cloud, DevOps, SRE and Platform Engineering Journal
+  url: https://github.com/dailyblogs
+  image_url: https://github.com/dailyblogs.png
