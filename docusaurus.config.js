@@ -104,7 +104,7 @@ const config = {
     prism: {
       theme: require('prism-react-renderer').themes.github,
       darkTheme: require('prism-react-renderer').themes.dracula,
-      additionalLanguages: ['bash', 'yaml', 'json', 'docker', 'terraform'],
+      additionalLanguages: ['bash', 'yaml', 'json', 'docker', 'hcl'],
     },
   },
 };
